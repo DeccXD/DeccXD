@@ -1,10 +1,10 @@
 # 💫 About Me:
 ✔  I am working as a Scrum Master in one of the largest telephone companies in Central America.
-✔  I also work as a FreeLancer in web development and website creation 💻
-✔  I am an engineering student in Computer Science at Don Bosco University, in El Salvador 👨‍💻\
-✔  I am a musician and I teach to play the four main instruments 🎹🎼🎶🎸
-✔  I am a responsible, patient and serious person, I have ease of communication and leadership 🙋‍♂️
-✔  I speak native Spanish and intermediate English (I am still learning) 💪
+<br>✔  I also work as a FreeLancer in web development and website creation 💻
+<br>✔  I am an engineering student in Computer Science at Don Bosco University, in El Salvador 👨‍💻\
+<br>✔  I am a musician and I teach to play the four main instruments 🎹🎼🎶🎸
+<br>✔  I am a responsible, patient and serious person, I have ease of communication and leadership 🙋‍♂️
+<br>✔  I speak native Spanish and intermediate English (I am still learning) 💪
 
 
 ## 🌐 Socials:
